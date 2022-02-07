@@ -100,4 +100,7 @@
     <!-- Font size -->
     <string name="font_size_title">Font size</string>
 
+    <!-- Memory info -->
+    <string name="meminfo_text">%1$s Available | %2$s Total</string>
+
 </resources>

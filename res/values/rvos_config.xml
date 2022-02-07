@@ -20,4 +20,8 @@
 
     <!-- Icon pack -->
     <string name="icon_pack_settings_class" translatable="false">com.android.launcher3.icons.pack.IconPackSettingsFragment</string>
+
+     <!-- Meminfo in overview -->
+    <dimen name="meminfo_bottom_margin_gesture">15dp</dimen>
+    <dimen name="meminfo_bottom_margin_three_button">15dp</dimen>
 </resources>
