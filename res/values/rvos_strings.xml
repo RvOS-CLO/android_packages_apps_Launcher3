@@ -88,6 +88,10 @@
     <string name="icon_pack_add">Install more</string>
     <string name="icon_pack_no_market">There\'s no available app store</string>
 
+    <!-- All apps themed icons -->
+    <string name="pref_themed_icons_title">Themed icons</string>
+    <string name="pref_themed_icons_summary">Follow themed icons used on home screen</string>
+
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">by default</string>
