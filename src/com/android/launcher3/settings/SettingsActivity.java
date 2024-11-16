@@ -24,7 +24,7 @@ import static com.android.launcher3.Utilities.KEY_DOCK_SEARCH;
 import static com.android.launcher3.Utilities.KEY_SMARTSPACE;
 import static com.android.launcher3.states.RotationHelper.ALLOW_ROTATION_PREFERENCE_KEY;
 
-import static co.aospa.launcher.OverlayCallbackImpl.KEY_ENABLE_MINUS_ONE;
+import static co.rvos.launcher.OverlayCallbackImpl.KEY_ENABLE_MINUS_ONE;
 
 import android.app.Activity;
 import android.app.ActivityManager;

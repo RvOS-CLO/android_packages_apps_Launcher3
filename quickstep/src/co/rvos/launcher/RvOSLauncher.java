@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package co.aospa.launcher;
+package co.rvos.launcher;
 
 import android.app.smartspace.SmartspaceTarget;
 import android.os.Bundle;
 
-import co.aospa.launcher.ParanoidLauncherModelDelegate.SmartspaceItem;
+import co.rvos.launcher.RvOSLauncherModelDelegate.SmartspaceItem;
 
 import com.android.launcher3.model.BgDataModel;
 import com.android.launcher3.qsb.LauncherUnlockAnimationController;
@@ -32,7 +32,7 @@ import com.google.android.systemui.smartspace.BcSmartspaceDataProvider;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class ParanoidLauncher extends QuickstepLauncher {
+public class RvOSLauncher extends QuickstepLauncher {
 
     private BcSmartspaceDataProvider mSmartspacePlugin = new BcSmartspaceDataProvider();
     private LauncherUnlockAnimationController mUnlockAnimationController =
