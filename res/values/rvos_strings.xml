@@ -74,6 +74,7 @@
 
     <!-- Show top shadow -->
     <string name="show_top_shadow">Show top shadow</string>
+    <string name="show_top_shadow_summary">Show shadow at the top of home screen</string>
 
     <!-- AppInfo -->
     <string name="app_info_version_value" translatable="false">%1$s (%2$d)</string>
